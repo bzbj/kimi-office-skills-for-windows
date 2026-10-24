@@ -15,8 +15,8 @@
 需要 Python 3.10 或更高版本，以及可运行 Python 的 Codex 环境。以下命令在 PowerShell 中执行。
 
 ```powershell
-git clone https://github.com/bzbj/kimi-office-skills.git
-cd kimi-office-skills
+git clone https://github.com/bzbj/kimi-office-skills-for-windows.git
+cd kimi-office-skills-for-windows
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
